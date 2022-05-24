@@ -7,3 +7,5 @@ print("to call this function using its name
 print("The program ran succesfully")
 #------------------------------------------
 print("first modification for 2nd commit")
+print("Added this line from the GitHub website for the first time") 
+      
